@@ -1,0 +1,1 @@
+Please change the Percolation_1.java or Percolation_2.java to Percolation.java to run.
